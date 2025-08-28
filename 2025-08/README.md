@@ -4,12 +4,15 @@ Based on the faces of the animals we should be able to figure out the cards the 
 We will go from left to right to figure this out.
 # Animal 1
 The dog on the left is holding a ♥️5 and ♣️4.
-This is 9 high with a suit of ♥️.
+This is 9 high with 5 rank.
 It is making this face 😳.
 It bet 1 chip.
 Could be good or bad.
 # Animal 2
 This dog is holding a ♠️9 and ♦️6.
-This is 17 high with a suit of ♦️.
+This is 17 high with 9 rank.
 It is making this face 🤤.
+It bet 47 chips.
 I think it is pretty happy.
+# Animal 3
+This dog is holding a ♥️9 and ♥️4.

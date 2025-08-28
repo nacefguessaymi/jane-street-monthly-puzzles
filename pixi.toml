@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Nacef Guessaymi <nacefguess@hotmail.com>"]
+channels = ["conda-forge"]
+name = "jane-street-monthly-puzzles"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.5,<3.14"
