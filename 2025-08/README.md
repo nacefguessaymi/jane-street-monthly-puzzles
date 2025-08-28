@@ -1,5 +1,7 @@
 This puzzle has an image of animals playing poker shown below.
+
 ![Puzzle](./dogs-playing-poker.png)
+
 Based on the faces of the animals we should be able to figure out the cards the dog in the center is holding.
 We will go from left to right to figure this out.
 # Animal 1
